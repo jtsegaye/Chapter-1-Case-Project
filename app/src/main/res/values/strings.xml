@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chapter 1 Case Projects</string>
+    <string name="app_title">Welcome to my Chapter 1 Case Projects</string>
+    <string name="app_creator_descr">By: Joseph Tsegaye</string>
+    <string name="back">Back</string>
+    <string name="app_1_1">Tech Quotes</string>
+    <string name="app_1_2">Desert Names</string>
+    <string name="app_1_3">Large Tech Companies</string>
+    <string name="app_1_1_desc">Any sufficiently advanced technology is indistinguishable from magic by Arther Clarke</string>
+    <string name="app_1_2_desc">Cupcakes, Donuts, Eclair, Froyo, Honeycomb, Ice Cream Sandwich, Jelly Bean, Kit Kat, and Lollipop</string>
+    <string name="app_1_3_desc">Top Technology World Companies: Samsung, Apple, Apple, Foxconn, HP, and IBM</string>
+</resources>
